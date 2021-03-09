@@ -14,12 +14,9 @@ Slack community and Getting Started videos.
 ## 1. Create Server
 
 All StatCan employees can already activate their AAW account and launch their
-first workspace in about three minutes. From there, our users can create
-anything from small machines for exploration to monster configurations with
-multiple CPUs and specialized hardware for machine learning.
+first workspace in about three minutes.
 
-Workspaces are a completely self-serve experience. With self-serve and powerful
-compute, our users get to analysis faster, and run experiments at a scale that
+Workspaces are a self-serve experience, where users can access the scale of resources they need when they need them, and delete them when they're done. 
 was previously unattainable.
 
 ## 2. JupyterLab
@@ -30,18 +27,13 @@ JupyterLab gives an interactive notebook environment for Python, R, and Julia
 where analysts can mix code, prose, and interactive visualizations.
 
 Our JupyterLab environment is the first in the industry to support both official
-languages. In choosing open tools, we're able to add features our users care
-about, like multi-language support, even for products that don't have it out of
-the box.
+languages.
 
 ## 3. Desktop
 
 Some great software isn't built for notebooks; it requires a desktop to run. For
 these situations, the AAW offers desktop-style workspaces for analysts to run
 the applications they know and love.
-
-Our desktops come preloaded with powerful analysis software like QGIS, RStudio,
-a spreadsheet app, and even Visual Studio Code.
 
 ## 4. RStudio
 
@@ -77,15 +69,6 @@ over a week and provide timely results to the Public Health Agency.
 This same analysis performed on a single four-core server would have taken over
 eight months to complete.
 
-## 7. Contributors
-
-In data analytics, collaboration is key, and AAW makes it simple for analysts to
-work together with the same tools on the same data.
-
-Sharing a workspace with a colleague is as simple as adding their account as a
-contributor. They can immediately see the new profile and begin collaborating on
-the project.
-
 ## 8. Kubecost
 
 We know our users want insights into all types of data, and that includes their
@@ -99,11 +82,3 @@ We've chosen open source tools that are already standards in the industry –
 tools which are familiar to users and reduce friction with our partners. And in
 turn, we work in the open ourselves. Being a part of an open community is
 something we care about, but it also benefits our customer.
-
-With less licence fees, and the option to recreate AAW in their own environment,
-our customers enjoy a lower cost and lower risk. And we ensure our freedom to
-deliver the features they care about most.
-
-By going open, we can give more for less.
-
-This is our competetive advantage. This is the Advanced Analytics Workspace.
