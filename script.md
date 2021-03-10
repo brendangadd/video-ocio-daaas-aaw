@@ -1,32 +1,33 @@
-# OCIO Video
+# Advanced Analytics Workspace
 
 ## 0. Portal
 
-The Advanced Analytics Workspace gives its users the power of end-to-end data
-science and analysis, ranging from data exploration to machine learning and
-interactive visualization. Built on open standards, we enable easy collaboration
-between team members and research partners.
+The Advanced Analytics Workspace, or AAW, gives its users the power of
+end-to-end data science and analysis, ranging from data exploration to machine
+learning and interactive visualization. Built on open standards, the AAW enables
+easy collaboration between users.
 
-Sign into our DAaaS portal with one click to discover and access the Advanced
-Analytics Workspace tools like Kubeflow, as well as support materials like our
-Slack community and Getting Started videos.
+They can sign into the DAaaS portal with one click to discover and access the
+Advanced Analytics Workspace tools like Kubeflow, as well as support materials
+like our Slack community and “Getting Started” videos.
 
 ## 1. Create Server
 
-All StatCan employees can already activate their AAW account and launch their
-first workspace in about three minutes. From there, they can create anything
-from small machines for exploration to monster configurations with specialized
-hardware for machine learning.
+All Statistics Canada employees can already activate their AAW account and
+launch their first workspace in about three minutes. From there, they can create
+anything from small machines for exploration to monster configurations with
+specialized hardware for machine learning.
 
-With AAW's self-serve experience and powerful compute, our users get to analysis
+With AAW's self-serve experience and powerful compute, users get to analysis
 faster, and run experiments at a scale that was previously unattainable.
 
 ## 2. JupyterLab
 
-We offer a choice of environments tailored to a variety of analysis, including
-JupyterLab, RStudio, and desktop-style experiences. Choosing JupyterLab gives an
-interactive notebook environment for Python, R, and Julia where analysts can mix
-code, prose, and interactive visualizations.
+The Advances Analytics Workspace offers a choice of environments tailored to a
+variety of analysis, including JupyterLab, RStudio, and desktop-style
+experiences. Choosing JupyterLab gives an interactive notebook environment for
+Python, R, and Julia where analysts can mix code, prose, and interactive
+visualizations.
 
 Our JupyterLab environment is the first in the industry to support both official
 languages. In choosing open tools, we're able to add these features our users
@@ -86,8 +87,8 @@ in turn, we work in the open ourselves. Being a part of an open community is
 something we care about, but it also benefits our customer.
 
 With less licence fees, and the option to recreate AAW in their own environment,
-our customers enjoy a lower cost and lower risk. And we ensure our freedom to
+our users enjoy a lower cost and lower risk. And we ensure our freedom to
 deliver the features they care about most.
 
-By going open, we can give more for less. This is our competetive advantage.
+By going open, we can give more for less. This is our competitive advantage.
 This is the Advanced Analytics Workspace.
